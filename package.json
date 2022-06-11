@@ -1,0 +1,23 @@
+{
+  "name": "trybe-sd-023-b-live-lectures",
+  "version": "1.0.0",
+  "description": "Repositório criado para armazenar os códigos e conteúdos das aulas ao vivo durante o curso de Desenvolvimento Web da Trybe.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luizeduardome/trybe-sd-023-live-lectures.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luizeduardome/trybe-sd-023-live-lectures/issues"
+  },
+  "homepage": "https://github.com/luizeduardome/trybe-sd-023-live-lectures#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
